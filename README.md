@@ -1,6 +1,7 @@
 # Java
 
 Project Details:
+Anagram -> Simple Anagram checker
 
 Break Caesar -> Caesar's Decrypter which will help translate the ciphertext in to plain English
 
